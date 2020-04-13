@@ -81,6 +81,7 @@ You can view the live project from [Codepen.io](https://codepen.io/nibble0101/pe
 - [Free Code Camp](https://www.freecodecamp.org/learn)
 - [Getting Started with React by Tania Rascia ](https://www.taniarascia.com/getting-started-with-react)
 - [Comprehensive introduction to react](https://scrimba.com/g/glearnreact)
+- [Robin Wieruch's Blog](https://www.robinwieruch.de/blog)
 
 
 
